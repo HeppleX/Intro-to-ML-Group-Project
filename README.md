@@ -1,1 +1,1 @@
-# Introduction to machine learning project - Credit Card Transaction Classification - Code
+# Introduction to machine learning project - Credit Card Transaction Classification
